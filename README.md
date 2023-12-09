@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on Using Transformers to predict Time Series Data
+- 🌱 I’m currently learning Graph Neural Networks
+- 📫 How to reach me: ushoskatti@gmail.com
 <!--
 **swapnil-hoskatti/swapnil-hoskatti** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
