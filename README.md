@@ -1,8 +1,8 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a Personal Expense Manager, Portfolio website, using React, Next, FastAPI, PostgreSQL
-- 🔭 I’ve worked on Google Cloud Platform, Amazon Web Services, deployed an AI API for better answering questions using different Retrieval Augmented Generation (RAG) and Prompt Engineering Techniques
-- 🌱 I’m currently learning Cloud Functions, Cloud Run, Generative AI.
+- 🔭 I’ve worked on Google Cloud Platform, Amazon Web Services, deployed multiple AI APIs and Full Stack for better answering questions using Agentic Retrieval Augmented Generation (RAG) and Prompt Engineering Techniques
+- 🌱 I’m currently using Cloud Functions, Cloud Run, AWS Step Functions, AWS Lambda, Generative AI.
 - 📫 How to reach me: ushoskatti@gmail.com | shoskatt@charlotte.edu
 
 ## 🌐 Socials:
